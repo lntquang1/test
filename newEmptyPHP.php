@@ -1,6 +1,7 @@
 <?php
 echo"chao";
-echo"chao1"
+echo"chao1";
+echo"chao 2";
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
